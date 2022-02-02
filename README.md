@@ -3,8 +3,8 @@
 
 # 네비게이션이 들어간 헤더 샘플
 
-<p>
-주요구현기술<br>
--반응형 mediaquery<br>
--메뉴 토글 classList.toggle()<br>
-</p>
+
+<ul><h2>주요구현기술</h2>
+  <li>반응형 mediaquery</li>
+  <li>메뉴 토글 classList.toggle()</li>
+</ul>

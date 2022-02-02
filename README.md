@@ -4,7 +4,7 @@
 # 네비게이션이 들어간 헤더 샘플
 
 
-<ul><h2>주요구현기술</h2>
+<ul><h2>구현기능</h2>
   <li>반응형 mediaquery</li>
   <li>메뉴 토글 classList.toggle()</li>
 </ul>
